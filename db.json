@@ -1,4 +1,5 @@
-  "player" : [ {
+  {
+    "player" : [ {
     "cse_parentid" : 922,
     "cse_playerid" : 11,
     "player_blast" : [ {
@@ -294,4 +295,4 @@
     "tgid" : "d3f38a58-4082-4c20-9586-84a1d7194a51"
   }
 ]
-
+}
